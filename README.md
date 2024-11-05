@@ -1,5 +1,5 @@
 ﻿# Projeto de Website Prya 🔮✨
-![mapa prya](doc/PRYA.png)
+![mapa prya](doc/img/PRYA.png)
 
 Este projeto é um website completo com funcionalidades de agendamento de consultas, exibição de produtos para venda, blog, depoimentos, seção "sobre", e gerenciamento de conteúdos. O objetivo é oferecer uma plataforma funcional e intuitiva para clientes e administradores, incluindo autenticação e controle de dados.
 
