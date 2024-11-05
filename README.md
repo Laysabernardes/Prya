@@ -77,4 +77,4 @@ Este repositório será organizado em duas pastas principais:
 - **/server**: Contém o back-end, com rotas e lógica da API desenvolvida em Node.js e Express.
 
 ## Licensa 🔒
-Este projeto está licenciado sob a MIT License. Para mais detalhes, consulte o arquivo [LICENSE](dpc/LICENSE.txt).
+Este projeto está licenciado sob a MIT License. Para mais detalhes, consulte o arquivo [LICENSE](LICENSE.txt).
