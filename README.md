@@ -1,4 +1,5 @@
 ﻿# Projeto de Website Prya 🔮✨
+![mapa prya](doc/PRYA.png)
 
 Este projeto é um website completo com funcionalidades de agendamento de consultas, exibição de produtos para venda, blog, depoimentos, seção "sobre", e gerenciamento de conteúdos. O objetivo é oferecer uma plataforma funcional e intuitiva para clientes e administradores, incluindo autenticação e controle de dados.
 
@@ -76,4 +77,4 @@ Este repositório será organizado em duas pastas principais:
 - **/server**: Contém o back-end, com rotas e lógica da API desenvolvida em Node.js e Express.
 
 ## Licensa 🔒
-Este projeto está licenciado sob a MIT License. Para mais detalhes, consulte o arquivo [LICENSE](LICENSE.txt).
+Este projeto está licenciado sob a MIT License. Para mais detalhes, consulte o arquivo [LICENSE](dpc/LICENSE.txt).
